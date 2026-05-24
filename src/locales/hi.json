@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "ऐप लॉन्च करें",
+    "connect": "वॉलेट जोड़ें",
+    "disconnect": "डिस्कनेक्ट करें",
+    "copy": "पता कॉपी करें",
+    "copied": "कॉपी हो गया!"
+  },
+  "landing": {
+    "tagline": "Reya Network द्वारा संचालित",
+    "headline": "भविष्यवाणी करें। दाव लगाएं। जीतें।",
+    "subheadline": "Reya Network पर रियल-टाइम क्रिप्टो प्रेडिक्शन मार्केट। परिणामों पर ट्रेड करें, सटीकता से कमाएं।",
+    "cta": "प्लेटफॉर्म में प्रवेश करें",
+    "features": {
+      "live": { "title": "लाइव डेटा", "desc": "CoinGecko से रियल-टाइम कीमतें" },
+      "multi": { "title": "मल्टी-आउटकम बेट", "desc": "Polymarket-शैली के प्रेडिक्शन मार्केट" },
+      "wallet": { "title": "वॉलेट कनेक्ट", "desc": "WalletConnect के माध्यम से Reya Network सपोर्ट" },
+      "charts": { "title": "रियल-टाइम चार्ट", "desc": "हर सेकंड अपडेट होने वाले इंटरेक्टिव प्राइस चार्ट" }
+    },
+    "stats": {
+      "volume": "कुल वॉल्यूम",
+      "traders": "सक्रिय ट्रेडर्स",
+      "markets": "खुले मार्केट"
+    }
+  },
+  "dashboard": {
+    "predictions": "प्रेडिक्शन मार्केट",
+    "marketInfo": "मार्केट जानकारी",
+    "newMarket": "+ नया मार्केट बनाएं",
+    "placeBet": "बेट लगाएं",
+    "betAmount": "बेट राशि (USDC)",
+    "betPlaced": "बेट सफलतापूर्वक लगाई गई!",
+    "connectFirst": "बेट के लिए वॉलेट जोड़ें",
+    "volume": "24घं कुल वॉल्यूम",
+    "trades": "कुल ट्रेड",
+    "accounts": "सक्रिय खाते",
+    "openInterest": "ओपन इंटरेस्ट",
+    "liveTrades": "लाइव ट्रेड",
+    "liveCharts": "लाइव टोकन चार्ट",
+    "lastUpdated": "अंतिम अपडेट",
+    "loading": "लोड हो रहा है...",
+    "error": "डेटा लोड विफल",
+    "retry": "पुनः प्रयास",
+    "settlement": "सेटलमेंट",
+    "probability": "संभावना",
+    "history": "मूल्य इतिहास"
+  },
+  "market": {
+    "createTitle": "नया मार्केट बनाएं",
+    "question": "मार्केट प्रश्न",
+    "options": "विकल्प",
+    "addOption": "+ विकल्प जोड़ें",
+    "settlement": "सेटलमेंट तिथि",
+    "create": "मार्केट बनाएं",
+    "cancel": "रद्द करें",
+    "optionPlaceholder": "विकल्प {{n}}"
+  },
+  "wallet": {
+    "title": "वॉलेट जोड़ें",
+    "subtitle": "Reya Markets पर ट्रेड करने के लिए जुड़ें",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "ब्राउज़र वॉलेट",
+    "portfolio": "मेरा पोर्टफोलियो",
+    "address": "पता",
+    "network": "नेटवर्क",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "गलत नेटवर्क",
+    "switchNetwork": "Reya Network पर स्विच करें"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

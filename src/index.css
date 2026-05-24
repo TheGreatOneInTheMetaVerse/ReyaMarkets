@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    background-color: #09090b;
+    color: #fafafa;
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: #09090b; }
+  ::-webkit-scrollbar-thumb { background: #27272a; border-radius: 3px; }
+}
+
+@layer components {
+  .panel {
+    @apply bg-reya-card border border-reya-border rounded-lg shadow-panel;
+  }
+
+  .panel-header {
+    @apply flex items-center justify-between px-4 py-3 border-b border-reya-border;
+  }
+
+  .panel-title {
+    @apply text-sm font-semibold text-reya-text tracking-tight;
+  }
+
+  .section-label {
+    @apply text-2xs font-medium uppercase tracking-widest text-reya-muted;
+  }
+
+  .data-cell {
+    @apply font-mono text-sm text-reya-text tabular-nums;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 rounded-md bg-reya-accent text-zinc-950 text-sm font-semibold
+      hover:bg-reya-accent-dim transition-colors disabled:opacity-40;
+  }
+
+  .btn-ghost {
+    @apply px-3 py-1.5 rounded-md text-sm text-reya-text-secondary
+      hover:bg-reya-card-hover hover:text-reya-text transition-colors;
+  }
+
+  .filter-pill {
+    @apply px-3 py-1 rounded-md text-xs font-medium border border-reya-border
+      text-reya-muted hover:text-reya-text hover:border-zinc-600 transition-colors;
+  }
+
+  .filter-pill-active {
+    @apply bg-reya-accent/10 border-reya-accent/40 text-reya-accent;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+}
+
+[lang="fa"], [dir="rtl"] { direction: rtl; }

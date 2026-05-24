@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "Fara Dandali",
+    "connect": "Haɗa Walat",
+    "disconnect": "Yanke Haɗi",
+    "copy": "Kwafi Adireshi",
+    "copied": "An Kwafi!"
+  },
+  "landing": {
+    "tagline": "Ƙarfin Reya Network",
+    "headline": "Hasashe. Caca. Ci.",
+    "subheadline": "Kasuwannin hasashen crypto na ainihi akan Reya Network. Yi ciniki akan sakamakon, samu daga daidaito.",
+    "cta": "Shiga Dandali",
+    "features": {
+      "live": { "title": "Bayanan Raye", "desc": "Farashin ainihi daga CoinGecko" },
+      "multi": { "title": "Caca Mai Zaɓuɓɓuka", "desc": "Kasuwar hasashe irin Polymarket" },
+      "wallet": { "title": "Haɗin Walat", "desc": "Goyan bayan Reya Network ta WalletConnect" },
+      "charts": { "title": "Taswirar Raye", "desc": "Taswirar farashi mai mu'amala" }
+    },
+    "stats": {
+      "volume": "Jimlar Ƙimar",
+      "traders": "Masu Ciniki Masu Aiki",
+      "markets": "Kasuwannin Buɗe"
+    }
+  },
+  "dashboard": {
+    "predictions": "Kasuwannin Hasashe",
+    "marketInfo": "Bayanan Kasuwa",
+    "newMarket": "+ Ƙirƙiri Kasuwa",
+    "placeBet": "Sa Caca",
+    "betAmount": "Adadin Caca (USDC)",
+    "betPlaced": "An sa caca cikin nasara!",
+    "connectFirst": "Haɗa walat don sanya caca",
+    "volume": "Jimlar Ƙimar 24s",
+    "trades": "Jimlar Ciniki",
+    "accounts": "Asusun Masu Aiki",
+    "openInterest": "Sha'awar Buɗe",
+    "liveTrades": "Ciniki Raye",
+    "liveCharts": "Taswirar Token Raye",
+    "lastUpdated": "Ƙarshen sabuntawa",
+    "loading": "Ana lodawa...",
+    "error": "Kuskuren lodi",
+    "retry": "Sake Gwadawa",
+    "settlement": "Sasantawa",
+    "probability": "Yiwuwa",
+    "history": "Tarihin Farashi"
+  },
+  "market": {
+    "createTitle": "Ƙirƙiri Kasuwa Sabuwa",
+    "question": "Tambayar Kasuwa",
+    "options": "Zaɓuɓɓuka",
+    "addOption": "+ Ƙara Zaɓi",
+    "settlement": "Ranar Sasantawa",
+    "create": "Ƙirƙiri Kasuwa",
+    "cancel": "Soke",
+    "optionPlaceholder": "Zaɓi {{n}}"
+  },
+  "wallet": {
+    "title": "Haɗa Walat",
+    "subtitle": "Haɗa don ciniki akan Reya Markets",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "Walat na Burauzar",
+    "portfolio": "Portfoliyo Na",
+    "address": "Adireshi",
+    "network": "Cibiyar Sadarwa",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "Cibiyar Sadarwa Mara Daidai",
+    "switchNetwork": "Canja zuwa Reya Network"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

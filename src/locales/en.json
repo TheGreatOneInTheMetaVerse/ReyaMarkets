@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "launch": "Launch App",
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect",
+    "copy": "Copy Address",
+    "copied": "Copied!",
+    "section": "Platform",
+    "resources": "Resources",
+    "markets": "Markets",
+    "bets": "My Bets",
+    "perps": "Perp Data",
+    "prices": "Prices",
+    "docs": "Documentation",
+    "explorer": "Explorer",
+    "footerHint": "Polymarket sync · Reya perps · On-chain bets"
+  },
+  "pages": {
+    "markets": "Prediction Markets",
+    "bets": "My Bets",
+    "perps": "Perp Data",
+    "prices": "Spot Prices"
+  },
+  "sync": {
+    "live": "Live",
+    "sync": "Sync",
+    "demo": "Demo",
+    "connecting": "Connecting"
+  },
+  "landing": {
+    "tagline": "Reya Network · Prediction Markets",
+    "headline": "Predict. Bet. Win.",
+    "subheadline": "Professional crypto prediction markets on Reya. Polymarket-style outcomes, settled on-chain with rUSD.",
+    "cta": "Open Dashboard",
+    "stats": {
+      "volume": "Data",
+      "traders": "Network",
+      "markets": "Markets"
+    }
+  },
+  "markets": {
+    "subtitle": "Market rank",
+    "description": "Browse prediction markets synced to Reya. Bet on outcomes when a market shows LIVE.",
+    "rankTitle": "Prediction market rank",
+    "rankSubtitle": "{{count}} markets",
+    "search": "Search markets…"
+  },
+  "bets": {
+    "subtitle": "Portfolio",
+    "description": "Your open positions and claimable winnings on Reya Markets.",
+    "panelSubtitle": "Grouped by status"
+  },
+  "perps": {
+    "subtitle": "Reya network activity",
+    "description": "Perpetual market data from Reya — same style as trading intelligence dashboards.",
+    "volumeRank": "Volume rank",
+    "volumeChart": "Trading volume",
+    "funding": "Funding rates"
+  },
+  "prices": {
+    "subtitle": "Spot overview",
+    "description": "BTC, ETH, SOL spot prices and market sentiment."
+  },
+  "dashboard": {
+    "predictions": "Prediction Markets",
+    "portfolio": "My Bets",
+    "newMarket": "Create market",
+    "placeBet": "Place bet",
+    "connectFirst": "Connect wallet to place bets",
+    "volume": "Volume 24h",
+    "openInterest": "Open interest",
+    "liveTrades": "Live executions",
+    "lastUpdated": "Updated"
+  },
+  "market": {
+    "createTitle": "Create market",
+    "question": "Question",
+    "options": "Outcomes",
+    "addOption": "Add outcome",
+    "settlement": "Settlement date",
+    "create": "Submit",
+    "cancel": "Cancel",
+    "optionPlaceholder": "Outcome {{n}}",
+    "relayerHint": "Queued for relayer → on-chain after sync",
+    "submitSuccess": "Market queued",
+    "errors": {
+      "question": "Enter a question",
+      "options": "Fill all outcomes",
+      "settlement": "Pick a date",
+      "noRelayer": "Set VITE_RELAYER_API_URL on Vercel"
+    }
+  },
+  "predictions": {
+    "filterAll": "All",
+    "filterOnChain": "On Reya only",
+    "statsListed": "Listed",
+    "statsOnChain": "On chain",
+    "statsSource": "Polymarket",
+    "noMarkets": "No markets match",
+    "demoNoBet": "Demo mode — betting off",
+    "rusdMissing": "Set VITE_RUSD_ADDRESS",
+    "selectOutcome": "Pick an outcome",
+    "invalidAmount": "Invalid amount",
+    "notOnChain": "Not synced to Reya yet",
+    "insufficientBalance": "Need more rUSD ({{balance}} available)",
+    "betSuccess": "{{amount}} rUSD on {{outcome}}",
+    "syncing": "Syncing",
+    "soon": "Soon",
+    "amountPlaceholder": "rUSD amount",
+    "estimatedPayout": "Est. {{net}} rUSD (gross {{gross}})",
+    "balanceLabel": "Balance"
+  },
+  "portfolio": {
+    "empty": "No positions yet",
+    "claim": "Claim",
+    "claimSuccess": "Claimed",
+    "status": {
+      "open": "Open",
+      "won": "Claimable",
+      "lost": "Lost",
+      "cancelled": "Refund",
+      "claimed": "Done"
+    }
+  },
+  "wallet": {
+    "title": "Connect wallet",
+    "subtitle": "Reya Network (1729)",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "Browser wallet",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "Wrong network",
+    "switchNetwork": "Switch to Reya"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

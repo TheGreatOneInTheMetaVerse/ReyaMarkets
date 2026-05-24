@@ -1,0 +1,143 @@
+{
+  "nav": {
+    "launch": "ورود به پلتفرم",
+    "connect": "اتصال کیف پول",
+    "disconnect": "قطع اتصال",
+    "copy": "کپی آدرس",
+    "copied": "کپی شد!",
+    "section": "پلتفرم",
+    "resources": "منابع",
+    "markets": "بازارها",
+    "bets": "شرط‌های من",
+    "perps": "داده پرپ",
+    "prices": "قیمت‌ها",
+    "docs": "مستندات",
+    "explorer": "اکسپلورر",
+    "footerHint": "همگام Polymarket · پرپ Reya · شرط آنچین"
+  },
+  "pages": {
+    "markets": "بازارهای پیش‌بینی",
+    "bets": "شرط‌های من",
+    "perps": "داده پرپ",
+    "prices": "قیمت لحظه‌ای"
+  },
+  "sync": {
+    "live": "زنده",
+    "sync": "همگام",
+    "demo": "دمو",
+    "connecting": "اتصال"
+  },
+  "landing": {
+    "tagline": "شبکه Reya · بازار پیش‌بینی",
+    "headline": "پیش‌بینی کن. شرط ببند. برنده شو.",
+    "subheadline": "بازار پیش‌بینی حرفه‌ای روی Reya. نتایج شبیه Polymarket، تسویه آنچین با rUSD.",
+    "cta": "باز کردن داشبورد",
+    "stats": {
+      "volume": "داده",
+      "traders": "شبکه",
+      "markets": "بازارها"
+    }
+  },
+  "markets": {
+    "subtitle": "رتبه بازارها",
+    "description": "بازارهای پیش‌بینی همگام با Reya. وقتی LIVE است شرط ببند.",
+    "rankTitle": "رتبه بازار پیش‌بینی",
+    "rankSubtitle": "{{count}} بازار",
+    "search": "جستجوی بازار…"
+  },
+  "bets": {
+    "subtitle": "پورتفولیو",
+    "description": "پوزیشن‌ها و برداشت‌های قابل claim.",
+    "panelSubtitle": "بر اساس وضعیت"
+  },
+  "perps": {
+    "subtitle": "فعالیت شبکه Reya",
+    "description": "داده پرپ از Reya — شبیه داشبوردهای حرفه‌ای.",
+    "volumeRank": "رتبه حجم",
+    "volumeChart": "حجم معاملات",
+    "funding": "نرخ funding"
+  },
+  "prices": {
+    "subtitle": "نمای کلی قیمت",
+    "description": "قیمت BTC، ETH، SOL و شاخص ترس و طمع."
+  },
+  "dashboard": {
+    "predictions": "بازارهای پیش‌بینی",
+    "portfolio": "شرط‌های من",
+    "newMarket": "ساخت بازار",
+    "placeBet": "ثبت شرط",
+    "connectFirst": "کیف پول وصل کن",
+    "volume": "حجم ۲۴س",
+    "openInterest": "قرارداد باز",
+    "liveTrades": "معاملات زنده",
+    "lastUpdated": "به‌روزرسانی"
+  },
+  "market": {
+    "createTitle": "ساخت بازار",
+    "question": "سوال",
+    "options": "گزینه‌ها",
+    "addOption": "افزودن گزینه",
+    "settlement": "تاریخ تسویه",
+    "create": "ارسال",
+    "cancel": "انصراف",
+    "optionPlaceholder": "گزینه {{n}}",
+    "relayerHint": "صف relayer → آنچین پس از sync",
+    "submitSuccess": "در صف قرار گرفت",
+    "errors": {
+      "question": "سوال را وارد کن",
+      "options": "همه گزینه‌ها را پر کن",
+      "settlement": "تاریخ را انتخاب کن",
+      "noRelayer": "VITE_RELAYER_API_URL را تنظیم کن"
+    }
+  },
+  "predictions": {
+    "filterAll": "همه",
+    "filterOnChain": "فقط Reya",
+    "statsListed": "لیست‌شده",
+    "statsOnChain": "آنچین",
+    "statsSource": "Polymarket",
+    "noMarkets": "بازاری نیست",
+    "demoNoBet": "دمو — شرط غیرفعال",
+    "rusdMissing": "VITE_RUSD_ADDRESS را تنظیم کن",
+    "selectOutcome": "گزینه انتخاب کن",
+    "invalidAmount": "مبلغ نامعتبر",
+    "notOnChain": "هنوز روی Reya نیست",
+    "insufficientBalance": "rUSD کافی نیست ({{balance}})",
+    "betSuccess": "{{amount}} rUSD روی {{outcome}}",
+    "syncing": "همگام‌سازی",
+    "soon": "به‌زودی",
+    "amountPlaceholder": "مبلغ rUSD",
+    "estimatedPayout": "تقریبی {{net}} rUSD",
+    "balanceLabel": "موجودی"
+  },
+  "portfolio": {
+    "empty": "شرطی نداری",
+    "claim": "دریافت",
+    "claimSuccess": "دریافت شد",
+    "status": {
+      "open": "باز",
+      "won": "قابل claim",
+      "lost": "باخته",
+      "cancelled": "استرداد",
+      "claimed": "انجام شد"
+    }
+  },
+  "wallet": {
+    "title": "اتصال کیف پول",
+    "subtitle": "شبکه Reya (1729)",
+    "metamask": "متامسک",
+    "walletconnect": "WalletConnect",
+    "injected": "کیف مرورگر",
+    "reyaNetwork": "شبکه Reya",
+    "wrongNetwork": "شبکه اشتباه",
+    "switchNetwork": "تغییر به Reya"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

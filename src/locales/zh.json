@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "启动应用",
+    "connect": "连接钱包",
+    "disconnect": "断开连接",
+    "copy": "复制地址",
+    "copied": "已复制！"
+  },
+  "landing": {
+    "tagline": "由 Reya Network 提供支持",
+    "headline": "预测。下注。赢取。",
+    "subheadline": "Reya Network 上的实时加密货币预测市场。交易结果，凭准确性获利。",
+    "cta": "进入平台",
+    "features": {
+      "live": { "title": "实时数据", "desc": "来自 CoinGecko 和链上数据源的实时价格" },
+      "multi": { "title": "多结果投注", "desc": "Polymarket 风格的多选项预测市场" },
+      "wallet": { "title": "钱包连接", "desc": "通过 WalletConnect 原生支持 Reya Network" },
+      "charts": { "title": "实时图表", "desc": "每秒更新的交互式价格图表" }
+    },
+    "stats": {
+      "volume": "总交易量",
+      "traders": "活跃交易者",
+      "markets": "开放市场"
+    }
+  },
+  "dashboard": {
+    "predictions": "预测市场",
+    "marketInfo": "市场信息",
+    "newMarket": "+ 创建市场",
+    "placeBet": "下注",
+    "betAmount": "下注金额 (USDC)",
+    "betPlaced": "下注成功！",
+    "connectFirst": "请连接钱包以下注",
+    "volume": "24小时总交易量",
+    "trades": "总交易数",
+    "accounts": "活跃账户",
+    "openInterest": "未平仓合约",
+    "liveTrades": "实时交易",
+    "liveCharts": "实时代币图表",
+    "lastUpdated": "最后更新",
+    "loading": "加载中...",
+    "error": "加载失败",
+    "retry": "重试",
+    "settlement": "结算",
+    "probability": "概率",
+    "history": "价格历史"
+  },
+  "market": {
+    "createTitle": "创建新市场",
+    "question": "市场问题",
+    "options": "选项",
+    "addOption": "+ 添加选项",
+    "settlement": "结算日期",
+    "create": "创建市场",
+    "cancel": "取消",
+    "optionPlaceholder": "选项 {{n}}"
+  },
+  "wallet": {
+    "title": "连接钱包",
+    "subtitle": "连接以在 Reya Markets 上交易",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "浏览器钱包",
+    "portfolio": "在浏览器中查看",
+    "address": "地址",
+    "network": "网络",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "网络错误",
+    "switchNetwork": "切换到 Reya Network"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}

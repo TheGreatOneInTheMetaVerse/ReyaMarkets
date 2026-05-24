@@ -1,0 +1,79 @@
+{
+  "nav": {
+    "launch": "Uygulamayı Başlat",
+    "connect": "Cüzdanı Bağla",
+    "disconnect": "Bağlantıyı Kes",
+    "copy": "Adresi Kopyala",
+    "copied": "Kopyalandı!"
+  },
+  "landing": {
+    "tagline": "Reya Network tarafından desteklenir",
+    "headline": "Tahmin Et. Bahse Gir. Kazan.",
+    "subheadline": "Reya Network'te gerçek zamanlı kripto tahmin piyasaları. Sonuçlar üzerine işlem yap, doğruluktan kazan.",
+    "cta": "Platforma Gir",
+    "features": {
+      "live": { "title": "Canlı Veriler", "desc": "CoinGecko'dan gerçek zamanlı fiyatlar" },
+      "multi": { "title": "Çoklu Bahis", "desc": "Polymarket tarzı çok seçenekli tahmin piyasaları" },
+      "wallet": { "title": "Cüzdan Bağlantısı", "desc": "WalletConnect ile Reya Network desteği" },
+      "charts": { "title": "Gerçek Zamanlı Grafikler", "desc": "Her saniye güncellenen etkileşimli fiyat grafikleri" }
+    },
+    "stats": {
+      "volume": "Toplam Hacim",
+      "traders": "Aktif Yatırımcılar",
+      "markets": "Açık Piyasalar"
+    }
+  },
+  "dashboard": {
+    "predictions": "Tahmin Piyasaları",
+    "marketInfo": "Piyasa Bilgisi",
+    "newMarket": "+ Yeni Piyasa Oluştur",
+    "placeBet": "Bahis Yap",
+    "betAmount": "Bahis Miktarı (USDC)",
+    "betPlaced": "Bahis başarıyla yapıldı!",
+    "connectFirst": "Bahis için cüzdanı bağlayın",
+    "volume": "24s Toplam Hacim",
+    "trades": "Toplam İşlem",
+    "accounts": "Aktif Hesaplar",
+    "openInterest": "Açık Faiz",
+    "liveTrades": "Canlı İşlemler",
+    "liveCharts": "Canlı Token Grafikleri",
+    "lastUpdated": "Son güncelleme",
+    "loading": "Yükleniyor...",
+    "error": "Veri yüklenemedi",
+    "retry": "Tekrar Dene",
+    "settlement": "Uzlaşma",
+    "probability": "Olasılık",
+    "history": "Fiyat Geçmişi"
+  },
+  "market": {
+    "createTitle": "Yeni Piyasa Oluştur",
+    "question": "Piyasa Sorusu",
+    "options": "Seçenekler",
+    "addOption": "+ Seçenek Ekle",
+    "settlement": "Uzlaşma Tarihi",
+    "create": "Piyasa Oluştur",
+    "cancel": "İptal",
+    "optionPlaceholder": "Seçenek {{n}}"
+  },
+  "wallet": {
+    "title": "Cüzdanı Bağla",
+    "subtitle": "Reya Markets'te işlem yapmak için bağlanın",
+    "metamask": "MetaMask",
+    "walletconnect": "WalletConnect",
+    "injected": "Tarayıcı Cüzdanı",
+    "portfolio": "Portföyüm",
+    "address": "Adres",
+    "network": "Ağ",
+    "reyaNetwork": "Reya Network",
+    "wrongNetwork": "Yanlış Ağ",
+    "switchNetwork": "Reya Network'e Geç"
+  },
+  "languages": {
+    "en": "English",
+    "fa": "فارسی",
+    "tr": "Türkçe",
+    "ha": "Hausa",
+    "hi": "हिन्दी",
+    "zh": "中文"
+  }
+}
