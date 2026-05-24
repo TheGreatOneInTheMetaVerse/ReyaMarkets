@@ -18,7 +18,7 @@ export function MarketsPage() {
   const [onChainOnly, setOnChainOnly] = useState(false)
 
   const { markets: polyMarkets, loading, usingMock, bettingAllowed } = usePolymarkets()
-  const { onChainMarkets, onChainIdMap, loading: chainLoading, configError, hasRUSD } = useContractContext()
+  const { markets: onChainMarkets, onChainIdMap, ... } = useContractContext()
 
   const filtered = useMemo(() => {
     let list = category === 'All'
